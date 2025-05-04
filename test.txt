@@ -1,0 +1,13 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/selinzobu/Desktop/ChurnPred/quantum-lambda-451211-d7-06745423127e.json"
+
+export GOOGLE_APPLICATION_CREDENTIALS= "~/.zshrc:ChurnPred/quantum-lambda-451211-d7-06745423127e.json"
+
+quantum-lambda-451211-d7-06745423127e.json
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/selinzobu/Desktop/ChurnPred/quantum-lambda-451211-d7-06745423127e.json
+"
+realpath ~/Desktop/ChurnPred/quantum-lambda-451211-d7-06745423127e.json
+
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/selinzobu/Desktop/ChurnPred/quantum-lambda-451211-d7-06745423127e.json"
+
+cd /Users/selinzobu/Desktop/ChurnPred

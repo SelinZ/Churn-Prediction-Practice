@@ -1,0 +1,52 @@
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional - keep if you want to version data)
+*.csv
+*.tsv
+*.json
+*.xls
+*.xlsx
+*.parquet
+*.h5
+*.db
+*.sqlite
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Other temporary or system files
+*.bak
+*.swp
+*~
+
+# Ignore model files (optional)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
